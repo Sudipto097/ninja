@@ -23,8 +23,9 @@ nav{
 nav a{
   margin-left: 12px;
 }
-nav.log{
+.logo{
   margin-right: auto;
+
 }
 footer{
   display: block;
