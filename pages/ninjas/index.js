@@ -2,7 +2,7 @@ const Ninjas = () =>{
     return(
         <div>
             <h1>
-                Test
+                All NINJAS :)
             </h1>
         </div>
     )
