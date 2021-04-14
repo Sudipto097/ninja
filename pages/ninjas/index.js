@@ -1,4 +1,4 @@
-const index = () =>{
+const Ninjas = () =>{
     return(
         <div>
             <h1>
@@ -7,4 +7,4 @@ const index = () =>{
         </div>
     )
 }
-export default index;
+export default Ninjas;
